@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub Profile!
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" />
 
 🚀 **React Developer | Blockchain Enthusiast | AI & Web3 Innovator**
 
@@ -27,15 +27,26 @@ I love building high-performance web applications and integrating cutting-edge t
 
 ## 📊 GitHub Insights & Stats
 🔥 **My GitHub Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
 📊 **Top Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 🚀 **Overall GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ---
+
+## 🎯 Let's Connect & Collaborate
+💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+🐦 [Twitter](https://twitter.com/yourusername)  
+🌐 [Portfolio](https://yourwebsite.com)  
+📩 *DM me for collaborations & cool projects!* 🚀  
+
+🌟 **Always learning, always building!** 💡  
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ## 🎯 Let's Connect & Collaborate
 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
